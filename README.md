@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Santosh Kumar
 - 👀 I’m interested in Machine Leearning and Data Science.
 - 🌱 I’m currently learning Deep Learning, OpenCV.
-- ⚡ Fun fact:  I'm always optimizing my code to find the best solutions.
+- ⚡ Fun fact:  Just as search engines optimize results for users, I optimize my Python code for peak performance, ensuring efficient data analysis and modeling in my projects.
 
 * ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santosh.perla9@gmail.com)
